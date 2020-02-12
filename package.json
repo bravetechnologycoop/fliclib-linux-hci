@@ -1,0 +1,19 @@
+{
+  "name": "fliclib-linux-hci",
+  "version": "0.1.0",
+  "description": "With this SDK you can connect to and interact with Flic buttons. PbF, Flic 1 as well as Flic 2 buttons are supported.",
+  "main": "clientlib/nodejs/fliclibNodeJs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bravetechnologycoop/fliclib-linux-hci.git"
+  },
+  "author": "Shortcut Labs",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/bravetechnologycoop/fliclib-linux-hci/issues"
+  },
+  "homepage": "https://github.com/bravetechnologycoop/fliclib-linux-hci#readme"
+}
